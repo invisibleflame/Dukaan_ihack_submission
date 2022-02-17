@@ -1,7 +1,9 @@
 # Dukaan_ihack_submission
 
 **Name** - Bhuvan Aggarwal
+
 **Institute** - IIT Bombay
+
 **Roll No.** - 190040026
 
 **Solution Topic** - Demand Forecasting for retailers
@@ -17,3 +19,6 @@
 - Try other models like Prophet and LSTMs
 - Use online learning so non tech people can use it as a black box system which is always updated
 - Incorporate news and market trend data in addition to the demand history data to make the model more robust.
+
+
+<p align='center'>Made with ❤️ by Bhuvan Aggarwal
